@@ -1,0 +1,14 @@
+:root{
+    --rojo: rgb(208, 18, 18);
+}
+#primero{
+    display: block;
+}
+p{
+    width: 25%;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
